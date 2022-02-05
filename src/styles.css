@@ -1,3 +1,7 @@
-.container-fluid{
+.text-center{
     text-align: center;
+    color: chartreuse;
+}
+body{
+    background-color: blue;
 }
