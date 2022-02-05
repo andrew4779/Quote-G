@@ -7,7 +7,7 @@ The quote can then be upvoted or downvoted.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
 ## Live Site Link
-
+https://andrew4779.github.io/Quote-G/
 
 ## Development server
 
