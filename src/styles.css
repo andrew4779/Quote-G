@@ -1,7 +1,8 @@
-.text-center{
+/* .text-center{
     text-align: center;
     color: chartreuse;
 }
 body{
     background-color: blue;
-}
+} */
+@import "~bootstrap/dist/css/bootstrap.css"
