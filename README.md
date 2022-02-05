@@ -1,5 +1,5 @@
 # Quotes
-By Andrew Kimani
+By Andrew Kimani.
 ## Description
 Quotes is an application that lets one post a quote through a form.
 The quote can then be upvoted or downvoted.
@@ -34,8 +34,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Support and contact details
-amosokello04@gmail.com
+andrewkimani02@gmail.com
 
 ## License
 This is under the [MIT](LICENSE) license
-Copyright (c) 2022 **Andrew Kimani**
+Copyright (c) 2022 **Andrew kimani**
